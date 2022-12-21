@@ -1,8 +1,26 @@
 - 👋 Hi, I’m @eghalea
-- 👀 I’m interested in data science and analysis
-- 🌱 I’m currently learning advanced neural nets and machine learning
+- 👨🏻‍💻 I’m interested in data science and systems engineering
+- 🌱 I’m continuously improving my coding skills and applying it to engineering analysis, financial risk and technical project management
+- 📚 Areas of interest:
+        
+        System Reliability, 
+        
+        Continuous improvement
+   
+        Risk modeling and assessment, 
+   
+        Design of experiments, 
+   
+        Multivariate analysis,
+   
+        linear programming and optimization,
+   
+        Discrete events and simulation,
+   
+        Safety engineering (risk and hazard analysis)
+   
 - 💞️ I’m looking to collaborate on anything machine learning and RDBM
-- 📫 How to reach me mega_egho@yahoo.com
+- 📫 How to reach me alexandereghorieta@gmail.com
 
 <!---
 eghalea/eghalea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

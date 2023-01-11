@@ -19,7 +19,7 @@
    
 - I’m looking to collaborate on anything machine learning and RDBM
 - 📫 How to reach me alexandereghorieta@gmail.com
-- check my other links [medium](https://medium.com/@meghorieta)  https://ttu.academia.edu/AlexanderMegaEghorieta
+- check my other links [medium](https://medium.com/@meghorieta) and [academia](https://ttu.academia.edu/AlexanderMegaEghorieta)
 
 
 

@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @eghalea
 - 👨🏻‍💻 I’m interested in data science and systems engineering
-- 🌱 I’m continuously improving my coding skills and applying it to engineering analysis, financial risk and technical project management
 - 📚 Areas of interest:
         
         System Reliability, 
@@ -19,7 +18,7 @@
    
         Safety engineering (risk and hazard analysis)
    
-- 💞️ I’m looking to collaborate on anything machine learning and RDBM
+- I’m looking to collaborate on anything machine learning and RDBM
 - 📫 How to reach me alexandereghorieta@gmail.com
 
 <!---

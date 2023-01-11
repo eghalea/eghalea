@@ -1,5 +1,4 @@
 - Hi, I’m @eghalea
-- I’m interested in data science and systems engineering
 - Areas of interest:
         
         System Reliability, 

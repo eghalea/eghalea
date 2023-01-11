@@ -1,4 +1,4 @@
-- Hi, I’m @eghalea
+- Hi there!, I’m @eghalea
 - Areas of interest:
         
         System Reliability, 

@@ -19,6 +19,9 @@
    
 - I’m looking to collaborate on anything machine learning and RDBM
 - 📫 How to reach me alexandereghorieta@gmail.com
+- check my other links rpubs.com/aeghorie.  https://ttu.academia.edu/AlexanderMegaEghorieta
+
+
 
 <!---
 eghalea/eghalea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
